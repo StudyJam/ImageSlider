@@ -4,10 +4,6 @@ This is a simple image slider (carousel) with thumbnails, built using HTML, CSS,
 
 ![Image Slider Screenshot](/assest/Screenshot%20(3).png)
 
-## Live Demo
-
-Check out the live demo [here](https://studyjam.github.io/ImageSlider/).
-
 ## Features
 
 - Displays images with accompanying information.
